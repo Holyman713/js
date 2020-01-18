@@ -1,5 +1,5 @@
 var name = prompt('Введите свое имя')
-console.log('Ваше имя :' + name);
+console.log('Ваше имя: ' + name);
 var age = prompt('Введите свой возраст')
 console.log('Ваш возраст: ' + age);
 var ex1 = prompt ('Решите пример 71 + 3 = ?')
